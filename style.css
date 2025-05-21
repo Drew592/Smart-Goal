@@ -6,3 +6,21 @@
 #picture  {
     background-color: #FFD100;
 }
+
+body {
+    display: flex;
+    justify-content: right;
+    height: 5vh;
+}
+
+#button {
+    background: transparent;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
