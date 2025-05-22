@@ -11,6 +11,7 @@ body {
     display: flex;
     justify-content: right;
     height: 5vh;
+    position: relative;
 }
 
 #button {
@@ -23,4 +24,13 @@ body {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+}
+
+.text {
+    font-size: 20px;
+    color: white;
+    text-align: right;
+    max-width: 300px;
+    margin-right: 20p;
+    position: absolute;
 }
