@@ -58,3 +58,7 @@ section {
     width: inherit;
 }
 
+.bear {
+    display: flex;
+    flex-direction: column;
+}
